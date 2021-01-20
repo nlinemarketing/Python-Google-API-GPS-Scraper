@@ -1,4 +1,4 @@
-# Python-GPS-Scraper
+# Google API GPS Scraper
 
 Python GPS Scraper is a simple way to parse Google Maps API data to get Longitude & Latitude from a full address. Designed this project to create an easy solution for uploading GPS POIs to Garmin GPS navigator.  
 
